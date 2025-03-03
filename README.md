@@ -14,6 +14,13 @@ Beyond iOS, I stay curious about the latest technologies, from AI integrations i
 
 Feel free to connect with me for all things iOS, Swift, or mobile development—let’s build the future of apps together! 🌟
 
+- Languages: Swift, Objective-C, Kotlin, Python
+- Frameworks: SwiftUI, UIKit, Combine, CoreData, AVFoundation
+- Tools: Xcode, CocoaPods, Swift Package Manager, Git
+- Testing: XCTest, TestFlight
+- Design: Figma, Sketch, Adobe XD
+- CI/CD: Jenkins
+
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardojordan" /> </p>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
