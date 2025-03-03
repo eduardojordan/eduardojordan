@@ -14,8 +14,7 @@ Beyond iOS, I stay curious about the latest technologies, from AI integrations i
 
 Feel free to connect with me for all things iOS, Swift, or mobile development—let’s build the future of apps together! 🌟
 
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="iampeduardojordan" /> </p>
 
 ### Talking about Personal Stuff:
 
@@ -66,15 +65,15 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iameduardojordan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iameduardojordan&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iameduardojordan&hide_border=true" />
 </details>
 
 <details>
@@ -84,7 +83,6 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
   	    <li><b>OS:</b> MacOS 14.5 Sonoma</li>
 	    <li><b>Laptop: </b> Macbook Pro M4 </li>
   	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> XSCode - The best editor out there</li>
  	    <li><b>Other Tools:</b> Postman</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
