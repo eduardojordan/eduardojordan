@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/eduardojordanm/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="iampeduardojordan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardojordan" /> </p>
 I am an iOS Developer with a passion for crafting seamless and high-performance mobile experiences. 🚀 Currently, I specialize in building innovative iOS applications using Swift, SwiftUI, UIKit, Combine, CoreData, and leveraging Apple's ecosystem to create scalable and user-friendly solutions.
 
 With a strong foundation in software architecture and mobile development best practices, I've worked on projects from scratch, optimized existing apps, and collaborated with cross-functional teams to deliver high-quality products. I thrive on problem-solving and applying first-principles thinking to tackle complex challenges in mobile development.
@@ -14,7 +14,21 @@ Beyond iOS, I stay curious about the latest technologies, from AI integrations i
 
 Feel free to connect with me for all things iOS, Swift, or mobile development—let’s build the future of apps together! 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="iampeduardojordan" /> </p>
+hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardojordan" /> </p>
+
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/c
 
 ### Talking about Personal Stuff:
 
