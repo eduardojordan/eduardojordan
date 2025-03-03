@@ -27,7 +27,7 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Swift, Objective C, Kotlin
+- 🛠 &nbsp; I’m currently working with Swift.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 📫 &nbsp; Reach me out: eduardojordan@hotmail.com.
 
