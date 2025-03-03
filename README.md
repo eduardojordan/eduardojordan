@@ -22,7 +22,7 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
 - CI/CD: Jenkins
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampeduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardojordan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardojordan&label=Profile%20views&color=0e75b6&style=flat" alt="eduardojordan" /> </p>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
