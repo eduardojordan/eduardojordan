@@ -76,7 +76,7 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
   	    <li><b>OS:</b> MacOS 14.5 Sonoma</li>
 	    <li><b>Laptop: </b> Macbook Pro M4 </li>
   	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Code Editor:</b> XSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> Xcode - The best editor out there</li>
  	    <li><b>Other Tools:</b> Postman</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
