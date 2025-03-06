@@ -16,7 +16,7 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
 
 - Languages: Swift, Objective-C, Kotlin, Python
 - Frameworks: SwiftUI, UIKit, Combine, CoreData, AVFoundation
-- Tools: Xcode, CocoaPods, Swift Package Manager, Git
+- Tools: Xcode, CocoaPods, Carthage, Swift Package Manager, Git
 - Testing: XCTest, TestFlight
 - Design: Figma, Sketch, Adobe XD
 - CI/CD: Jenkins
