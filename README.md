@@ -11,6 +11,7 @@ I am an iOS Developer with a passion for crafting seamless and high-performance 
 With a strong foundation in software architecture and mobile development best practices, I've worked on projects from scratch, optimized existing apps, and collaborated with cross-functional teams to deliver high-quality products. I thrive on problem-solving and applying first-principles thinking to tackle complex challenges in mobile development.
 
 Beyond iOS, I stay curious about the latest technologies, from AI integrations in mobile apps to cloud-driven architectures. When I'm not coding, you’ll find me exploring new frameworks, watching tech-related content, or refining my craft as a software engineer.
+I have very old and outdated repositories, I created them at the time to learn. Please check the most recent ones on my profile. Thank you.
 
 Feel free to connect with me for all things iOS, Swift, or mobile development—let’s build the future of apps together! 🌟
 
