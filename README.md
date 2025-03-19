@@ -28,8 +28,8 @@ Feel free to connect with me for all things iOS, Swift, or mobile development—
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Swift.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🛠 &nbsp; I’m currently working with Swift,Architecture, Testing, Security.
+- 🚀 &nbsp; I’m currently exploring Swift, Integration AI in iOS, Mobile Develop.
 - 📫 &nbsp; Reach me out: eduardojordan@hotmail.com.
 
 ### My Absolute Favorites:
